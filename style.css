@@ -139,6 +139,10 @@ button:hover:not(.equal__sign) {
         width: 100%;
     }
 
+    .operators__container button {
+        width: 100%;
+    }
+
     .equal__sign {
         height: 60%;
         width: 100%;
